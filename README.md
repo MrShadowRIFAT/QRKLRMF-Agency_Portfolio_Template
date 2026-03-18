@@ -1,4 +1,4 @@
-# 🎨 Xolio - Creative Agency Portfolio Template
+# 🎨 Creative Agency Portfolio Template
 
 A modern, responsive HTML5 template designed for creative agencies, design studios, and freelance portfolios. Built with Bootstrap, featuring smooth animations and interactive elements.
 
@@ -150,8 +150,9 @@ This template is provided as-is. Check the repository for any license files.
 
 ## 👨‍💼 Author
 
-**MrShadowRIFAT**  
-Portfolio Template Repository
+**Rifat**  
+🔗 [https://rifat.website](https://rifat.website)  
+📧 [noreply@rifat.website](mailto:noreply@rifat.website)
 
 ## 🤝 Contributing
 
@@ -167,7 +168,10 @@ For issues, questions, or suggestions:
 - Open an issue in the repository
 - Check existing issues for solutions
 - Review the code structure for customization tips
+- Contact: [noreply@rifat.website](mailto:noreply@rifat.website)
 
 ---
 
 **Ready to launch your creative agency?** Start customizing this template today! 🚀
+
+Last Updated: March 18, 2026
