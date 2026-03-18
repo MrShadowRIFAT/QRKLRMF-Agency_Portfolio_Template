@@ -12,16 +12,30 @@ Modern, responsive HTML5 template for creative agencies and portfolios. Built wi
 - SEO optimized
 - Easy to customize
 
-## 🚀 Quick Start
+## 🚀 Quick Installation
 
+### 1. Fork This Repository
+Click the **Fork** button at the top-right of this GitHub repo to create your own copy.
+
+### 2. Deploy to Vercel
+- Go to [Vercel.com](https://vercel.com)
+- Click **Add New** → **Project**
+- Import your forked GitHub repository
+- Click **Deploy** (no config needed - it auto-detects)
+- Your site goes live instantly! 🎉
+
+### 3. Edit Files from GitHub
+- Open any `.html` file in your forked repo
+- Click the ✏️ **Edit** button
+- Make changes and commit directly
+- Vercel auto-deploys your changes
+
+### Local Development
 ```bash
-git clone https://github.com/MrShadowRIFAT/QRKLRMF-Agency_Portfolio_Template.git
+git clone https://github.com/YOUR_USERNAME/QRKLRMF-Agency_Portfolio_Template.git
 cd QRKLRMF-Agency_Portfolio_Template
+python -m http.server 8000
 ```
-
-**View in browser:**
-- Open `index.html` directly, or
-- Run: `python -m http.server 8000`
 
 ## 📁 Pages
 
